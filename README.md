@@ -15,9 +15,9 @@ Here are some of my projects:
 
 | Programming Language/Tools | Projects                             | Description                                |
 |----------------------|--------------------------------------|--------------------------------------------|
-| Python               | [CloudPy](cloudpy.online) <br> matrix-numerov-python <br> reflection     | Run advanced python libraries on the cloud <br> solving the Schrödinger equation using Matrix Numerov method <br> Manim code for animating reflection |
-| JavaScript           | ChemLab  | Virtual Chemistry Lab for Cation Analysis Simulation          |
-| Java                 | Buttonclick                | An Android app, a backend service          |
+| Python               | [CloudPy](cloudpy.online) <br> [matrix-numerov-python](https://github.com/thesophile/matrix-numerov-python) <br> reflection     | Run advanced python libraries on the cloud <br> solving the Schrödinger equation using Matrix Numerov method <br> Manim code for animating reflection |
+| JavaScript           | [ChemLab](https://github.com/thesophile/ChemLab)  | Virtual Chemistry Lab for Cation Analysis Simulation          |
+| Java                 | [Buttonclick](https://github.com/thesophile/Buttonclick)                | A simple android word game          |
 
  
 
