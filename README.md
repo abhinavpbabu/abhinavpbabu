@@ -19,6 +19,7 @@ Here are some of my projects:
 |----------------------|--------------------------------------|--------------------------------------------|
 | [CloudPy](cloudpy.online)|  Run advanced python libraries on the cloud | Python                          |
 | [Appoint](https://github.com/thesophile/appoint) | a simple python-django app to make doctor appointments online!| django |
+| [Insurance form](https://github.com/thesophile/insurance_form) | A form I have developed for a client | Html, CSS, Javascript |
 | [matrix-numerov-python](https://github.com/thesophile/matrix-numerov-python) | solving the Schrödinger equation using Matrix Numerov method | Python|
 | [ChemLab](https://github.com/thesophile/ChemLab) |  Virtual Chemistry Lab for Cation Analysis Simulation | Javascript |
 | [Buttonclick](https://github.com/thesophile/Buttonclick) | A simple android word game | Java |
