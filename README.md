@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 - 🔭 I’m currently working on personal projects and exploring new technologies.
 - 🌱 I’m learning more about Flutter and mobile app development.
 - 💬 Feel free to reach out if you want to discuss coding, mathematics, or collaboration opportunities!
-- 📫 You can connect with me on [Discord](your-discord-link) or email me at [abhinavbabu.contact@gmail.com](mailto:abhinavbabu.contact@gmail.com).
+- 📫 You can connect with me on [Discord](https://discord.com/users/1005716675984883723) or email me at [abhinavbabu.contact@gmail.com](mailto:abhinavbabu.contact@gmail.com).
 
 ## Projects
 
