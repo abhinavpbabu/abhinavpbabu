@@ -13,13 +13,14 @@ Welcome to my GitHub profile!
 
 Here are some of my projects:
 
-| Programming Language/Tools | Projects                             | Description                                |
-|----------------------|--------------------------------------|--------------------------------------------|
-| Python               | [CloudPy](cloudpy.online) <br> [matrix-numerov-python](https://github.com/thesophile/matrix-numerov-python) <br> reflection     | Run advanced python libraries on the cloud <br> solving the Schrödinger equation using Matrix Numerov method <br> Manim code for animating reflection |
-| JavaScript           | [ChemLab](https://github.com/thesophile/ChemLab)  | Virtual Chemistry Lab for Cation Analysis Simulation          |
-| Java                 | [Buttonclick](https://github.com/thesophile/Buttonclick)                | A simple android word game          |
-
  
+
+| Projects             |  Description                         | Programming Language/Tools                 |
+|----------------------|--------------------------------------|--------------------------------------------|
+| [CloudPy](cloudpy.online)|  Run advanced python libraries on the cloud | Python                          |
+| [matrix-numerov-python](https://github.com/thesophile/matrix-numerov-python) | solving the Schrödinger equation using Matrix Numerov method | Python|
+| [ChemLab](https://github.com/thesophile/ChemLab) |  Virtual Chemistry Lab for Cation Analysis Simulation | Javascript |
+| [Buttonclick](https://github.com/thesophile/Buttonclick) | A simple android word game | Java |
 
 ## Skills
 
