@@ -11,11 +11,15 @@ Welcome to my GitHub profile!
 
 ## Projects
 
-Here are some of the projects I’m proud of:
+Here are some of my projects:
 
-- [CloudPy](cloudpy.online) - Run advanced python libraries on the cloud
-- [Project 2](link-to-your-project) - Brief description of what this project does.
-- [Project 3](link-to-your-project) - Brief description of what this project does.
+| Programming Language/Tools | Projects                             | Description                                |
+|----------------------|--------------------------------------|--------------------------------------------|
+| Python               | [CloudPy](cloudpy.online) <br> matrix-numerov-python <br> reflection     | Run advanced python libraries on the cloud <br> solving the Schrödinger equation using Matrix Numerov method <br> Manim code for animating reflection |
+| JavaScript           | ChemLab  | Virtual Chemistry Lab for Cation Analysis Simulation          |
+| Java                 | Buttonclick                | An Android app, a backend service          |
+
+ 
 
 ## Skills
 
