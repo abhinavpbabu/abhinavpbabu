@@ -17,7 +17,7 @@ Here are some of my projects:
 
 | Projects             |  Description                         | Programming Language/Tools                 |
 |----------------------|--------------------------------------|--------------------------------------------|
-| [CloudPy](cloudpy.online)|  Run advanced python libraries on the cloud | Python                          |
+| [CloudPy](https://cloudpy.online)|  Run advanced python libraries on the cloud | Python                          |
 | [Appoint](https://github.com/thesophile/appoint) | a simple python-django app to make doctor appointments online!| django |
 | [Insurance form](https://github.com/thesophile/insurance_form) | A form I have developed for a client | Html, CSS, Javascript |
 | [matrix-numerov-python](https://github.com/thesophile/matrix-numerov-python) | solving the Schrödinger equation using Matrix Numerov method | Python|
