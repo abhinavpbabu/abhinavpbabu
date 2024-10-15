@@ -30,11 +30,11 @@ Here are some of my projects:
 - Frameworks: Django, Flutter
 - Tools: Git, GitHub, AWS
 
-## Let's Connect
+<!--## Let's Connect
 
 - [LinkedIn](your-linkedin-profile)
 - [Twitter](your-twitter-handle)
-- [Your Personal Website or Blog](your-website)
+- [Your Personal Website or Blog](your-website) -->
 
 Thanks for visiting my profile! 🚀
 
