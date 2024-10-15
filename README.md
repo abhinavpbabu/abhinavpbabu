@@ -4,10 +4,26 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-- 🔭 I’m currently working on personal projects and exploring new technologies.
+Hi,
+- I love computers
+- I love using it
+- I make projects for myself
+- I build websites for others
+- sometimes I do freelance work
+
+## Skills
+
+- Programming Languages: Python, javascript, java 
+- Frameworks: Django, Flutter
+- Tools: Git, GitHub, AWS
+
+    
+
+<!--- 🔭 I’m currently working on personal projects and exploring new technologies.
 - 🌱 I’m learning more about Flutter and mobile app development.
 - 💬 Feel free to reach out if you want to discuss coding, mathematics, or collaboration opportunities!
 - 📫 You can connect with me on [Discord](https://discord.com/users/1005716675984883723) or email me at [abhinavbabu.contact@gmail.com](mailto:abhinavbabu.contact@gmail.com).
+-->
 
 ## Projects
 
@@ -24,11 +40,7 @@ Here are some of my projects:
 | [ChemLab](https://github.com/thesophile/ChemLab) |  Virtual Chemistry Lab for Cation Analysis Simulation | Javascript |
 | [Buttonclick](https://github.com/thesophile/Buttonclick) | A simple android word game | Java |
 
-## Skills
 
-- Programming Languages: Python, javascript, java 
-- Frameworks: Django, Flutter
-- Tools: Git, GitHub, AWS
 
 <!--## Let's Connect
 
