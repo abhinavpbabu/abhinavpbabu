@@ -4,12 +4,9 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-Hi,
-- I love computers
-- I love using it
-- I make projects for myself
-- I build websites for others
-- sometimes I do freelance work
+Hi, I have graduated in Physics from keralavarma College, Now doing a paramedical course.
+I like programming and I sometimes work on websites as a hobby.  
+ 
 
 ## Skills
 
