@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-Hi, I have graduated in Physics from keralavarma College, Now doing a paramedical course.
+Hi, I have graduated in Physics from keralavarma College.
 I like programming and I sometimes work on websites as a hobby.  
  
 
