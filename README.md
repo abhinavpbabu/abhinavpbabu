@@ -37,6 +37,9 @@ If you’re here to judge, borrow, or quietly inspect the chaos I call projects,
 
 Run advanced python libraries on the cloud
 
+[🌐 Website](https://manim.runwith.cloud)
+
+
 **Features**
 - Preinstalled library, no setups needed.
 - Save and access your code anywhere.
@@ -48,28 +51,33 @@ Run advanced python libraries on the cloud
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
 </p>
 
+
 <hr>
 
-### 🔹 Runwith
+### 🔹 Neopotter
 
 <p align="left">
   <img src="https://abhinavpbabu.github.io/abhinavpbabu/Manim_Screenshot.png" alt="Project Preview" width="600" />
 </p>
 
-Run advanced python libraries on the cloud
+Static Ecommerce website
+
+[🌐 Website](https://manim.runwith.cloud) • [📦 Repo](https://github.com/your/repo)
 
 **Features**
-- Preinstalled library, no setups needed.
-- Save and access your code anywhere.
-- Mobile accessibility.
-
+- Fully static
+- Ability to add items to cart and buy them
+- Email notifications and confirmation mail on order placement.
+- 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 </p>
 
-[👉 Repo Link](https://github.com/yourname/project)
+<hr>
+
+
 
  
 
