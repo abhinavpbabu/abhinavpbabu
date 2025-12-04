@@ -13,11 +13,22 @@ If you’re here to judge, borrow, or quietly inspect the chaos I call projects,
 
 ## Skills
 
-- Programming Languages: Python, javascript, java 
-- Frameworks: Django, Flutter
-- Tools: Git, AWS
+* Web development
+* Web designing
+* Deployment and hosting
+* Maintenance
+* Responsive UI design
+* API integration
+* Database handling (SQLite, Postgres, MySQL)
+* Version control (Git/GitHub)
+* Performance optimization
+* Security best practices
+* Debugging and troubleshooting
+* AWS basics (EC2, SSM, networking)
+* Documentation
+* UI/UX fundamentals
+* Testing basics
 
-    
 
 <!--- 🔭 I’m currently working on personal projects and exploring new technologies.
 - 🌱 I’m learning more about Flutter and mobile app development.
