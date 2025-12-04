@@ -1,4 +1,4 @@
-# Hi, I'm Abhinav P Babu 👋
+# Hi, I'm Abhinav Babu
 
 Welcome to my GitHub profile! 
 
@@ -26,6 +26,31 @@ If you’re here to judge, borrow, or quietly inspect the chaos I call projects,
 -->
 
 ## Projects
+
+
+## Projects
+
+### 🔹 Project Name
+
+<p align="center">
+  <img src="https://your-image-url.com/project-preview.png" alt="Project Preview" width="600" />
+</p>
+
+Short description that actually says something.
+
+**Features**
+- Does this
+- Does that
+
+**Tech**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+</p>
+
+[👉 Repo Link](https://github.com/yourname/project)
+
 
 Here are some of my projects:
 
