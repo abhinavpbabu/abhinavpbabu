@@ -33,7 +33,7 @@ If you’re here to judge, borrow, or quietly inspect the chaos I call projects,
 ### 🔹 Project Name
 
 <p align="center">
-  <img src="https://github.com/abhinavpbabu/abhinavpbabu/Manim_Screenshot.png" alt="Project Preview" width="600" />
+  <img src="https://abhinavpbabu.github.io/abhinavpbabu/Manim_Screenshot.png" alt="Project Preview" width="600" />
 </p>
 
 Short description that actually says something.
