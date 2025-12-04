@@ -43,7 +43,7 @@ If you’re here to judge, borrow, or quietly inspect the chaos I call projects,
 ### 🔹 Runwith
 
 <p align="left">
-  <img src="https://abhinavpbabu.github.io/abhinavpbabu/Manim_Screenshot.png" alt="Project Preview" width="600" />
+  <img src="https://abhinavpbabu.github.io/abhinavpbabu/Manim_Screenshot.png" alt="Project Preview" width="800" />
 </p>
 
 Run advanced python libraries on the cloud
@@ -68,13 +68,13 @@ Run advanced python libraries on the cloud
 ### 🔹 Neopotter
 
 <p align="left">
-  <img src="https://thesophile.github.io/neopotter/img/screenshot_neopotter.png" alt="Project Preview" width="600" />
+  <img src="https://thesophile.github.io/neopotter/img/screenshot_neopotter.png" alt="Project Preview" width="800" />
 </p>
 
 
 Static Ecommerce website
 
-[🌐 Website](https://manim.runwith.cloud) • [📦 Repo](https://github.com/your/repo)
+[🌐 Website](https://neopotter.com) • [📦 Repo](https://github.com/thesophile/neopotter)
 
 **Features**
 - Fully static
