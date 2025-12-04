@@ -68,8 +68,9 @@ Run advanced python libraries on the cloud
 ### 🔹 Neopotter
 
 <p align="left">
-  <img src="https://abhinavpbabu.github.io/abhinavpbabu/Manim_Screenshot.png" alt="Project Preview" width="600" />
+  <img src="https://thesophile.github.io/neopotter/img/screenshot_neopotter.png" alt="Project Preview" width="600" />
 </p>
+
 
 Static Ecommerce website
 
