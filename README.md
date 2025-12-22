@@ -69,7 +69,7 @@ Run advanced python libraries on the cloud
 
 
 
-<hr>
+## 
 
 ### 🔹 Restaurant-Demo
 
@@ -94,7 +94,7 @@ Custom made React Website for restaurants. Integrated online ordering functional
  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
 </p>
 
-<hr>
+##
 
 ### 🔹 Neopotter
 
@@ -118,8 +118,7 @@ Static Ecommerce website
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 </p>
 
-<hr>
-
+##
 
 
  
