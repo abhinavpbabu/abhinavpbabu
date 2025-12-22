@@ -60,7 +60,13 @@ Run advanced python libraries on the cloud
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DjangoQ-Task%20Queue-4B8BBE" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 </p>
+
 
 
 <hr>
@@ -80,9 +86,12 @@ Custom made React Website for restaurants. Integrated online ordering functional
 - Clean and easy-to-maintain code.
   
 <p>
- <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
- <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+ <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
+ <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" />
+ <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
+ <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
 </p>
 
 <hr>
