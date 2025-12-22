@@ -126,7 +126,9 @@ Static Ecommerce website
 | Projects             |  Description                         | Programming Language/Tools                 |
 |----------------------|--------------------------------------|--------------------------------------------|
 | [RUNWITH](https://manim.runwith.cloud)|  Run advanced python libraries on the cloud | Python                          |
+| [Restaurant site demo](https://abhinavpbabu.github.io/restaurant-site-demo/) | Clean, minimal Website designed for restaurants| React|
 | [Appoint](https://github.com/thesophile/appoint) | a simple python-django app to make doctor appointments online!| django |
+| [Neopotter](https://neopotter.com/) | Ecommerse website for my 3d printing service | Html,css,js|
 | [Insurance form](https://github.com/thesophile/insurance_form) | A form I have developed for a client | Html, CSS, Javascript |
 | [matrix-numerov-python](https://github.com/thesophile/matrix-numerov-python) | solving the Schrödinger equation using Matrix Numerov method | Python|
 | [ChemLab](https://github.com/thesophile/ChemLab) |  Virtual Chemistry Lab for Cation Analysis Simulation | Javascript |
