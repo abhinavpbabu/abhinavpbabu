@@ -105,7 +105,7 @@ Custom made React Website for restaurants. Integrated online ordering functional
 
 Static Ecommerce website
 
-[🌐 Website](https://neopotter.com) • [📦 Repo](https://github.com/thesophile/neopotter)
+[🌐 Website](https://thesophile.github.io/neopotter/) • [📦 Repo](https://github.com/thesophile/neopotter)
 
 **Features**
 - Fully static
