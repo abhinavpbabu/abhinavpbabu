@@ -133,6 +133,7 @@ Static Ecommerce website
 | [matrix-numerov-python](https://github.com/thesophile/matrix-numerov-python) | solving the Schrödinger equation using Matrix Numerov method | Python|
 | [ChemLab](https://github.com/thesophile/ChemLab) |  Virtual Chemistry Lab for Cation Analysis Simulation | Javascript |
 | [Buttonclick](https://github.com/thesophile/Buttonclick) | A simple android word game | Java |
+| [YT-DLP GUI](https://github.com/thesophile/yt-downloader) | A gui for the famous yt-dlp downloader | Python
 
 
 
