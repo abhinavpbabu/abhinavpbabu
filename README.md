@@ -120,6 +120,32 @@ Static Ecommerce website
 
 ##
 
+### 🔹 YT downloader GUI
+
+<p align="left">
+<img width="760" height="458" alt="image" src="https://github.com/user-attachments/assets/f11cb12c-7179-4f05-8181-feeaac8a3b52" />
+</p>
+
+
+
+GUI for yt-dlp
+
+[📦 Repo](https://github.com/thesophile/yt-downloader)
+
+**Features**
+- Download videos from YouTube in specified quality (360p, 480p, 720p, 1080p).
+- Choose output format (MKV, MP4, WEBM).
+- Select the download location (default: ~/Downloads/videos).
+- Real-time download progress display.
+- Built using Python and Tkinter for a user-friendly interface.
+  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-FFCC00?logo=python&logoColor=black" />
+</p>
+
+##
+
 
  
 
@@ -136,7 +162,6 @@ Static Ecommerce website
 | [YT-DLP GUI](https://github.com/thesophile/yt-downloader) | A gui for the famous yt-dlp downloader | Python
 
 
-
-
+And more at [thesophile](https://github.com/thesophile)
 
 
