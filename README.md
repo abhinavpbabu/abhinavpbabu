@@ -4,12 +4,13 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I’m Abhinav. I make websites because I have nothing better to do.
+I’m Abhinav, a physics graduate from Calicut university that somehow ended up creating websites. 
 
-I’m building a [site](https://manim.runwith.cloud) that renders Manim videos because apparently I enjoy pain. I also make a few [YouTube videos](https://youtube.com/@the_sophile) when my brain decides to cooperate. Between those two, I get to turn abstract ideas into something that actually looks and works like it should, which is close enough to “beautiful” for me.
-
+Working on websites feels so satisfying to me, making things work in a way they aren't supposed to.
 If you’re here to judge, borrow, or quietly inspect the chaos I call projects, feel free. The code holds up.
  
+Right now, I’m working on my project [runwith.cloud](https://runwith.cloud) that renders Python Libraries out of the box.
+I feel like I am ready for more. Contact me at  [abhinavbabu.contact@gmail.com](mailto:abhinavbabu.contact@gmail.com) if you need a hand. 
 
 ## Skills
 
@@ -28,14 +29,6 @@ If you’re here to judge, borrow, or quietly inspect the chaos I call projects,
 * Documentation
 * UI/UX fundamentals
 * Testing basics
-
-
-<!--- 🔭 I’m currently working on personal projects and exploring new technologies.
-- 🌱 I’m learning more about Flutter and mobile app development.
-- 💬 Feel free to reach out if you want to discuss coding, mathematics, or collaboration opportunities!
-- 📫 You can connect with me on [Discord](https://discord.com/users/1005716675984883723) or email me at [abhinavbabu.contact@gmail.com](mailto:abhinavbabu.contact@gmail.com).
--->
-
 
 
 ## Projects
