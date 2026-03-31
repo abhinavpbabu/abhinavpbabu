@@ -1,6 +1,6 @@
 # Hi, I'm Abhinav Babu
 
-Welcome to my GitHub profile! 
+👇 Secondary profile | 👉 [Main profile](https://github.com/thesophile)
 
 ## About Me
 
